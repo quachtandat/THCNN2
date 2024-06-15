@@ -1,0 +1,43 @@
+*{
+  box-sizing: border-box;
+}
+
+body,*{
+  margin: 0px;
+  padding: 0px;
+}
+
+.myapp{
+  width: 500px;
+  height: 500px;
+  border: solid 1px red;
+  padding: 15px;
+}
+.title{
+  background-color: antiquewhite;
+  color: black;
+  text-align: center;
+}
+.img-iphone{
+  width: 80px;
+  height: 80px;
+  border-radius:5px;
+}
+
+.box{
+  display: flex;
+  padding: 15px;
+  border-bottom: solid 1px orange;
+}
+
+.iphone-name{
+  width: 250px;
+  list-style-type: none;
+}
+
+.img-icone{
+  width: 80px;
+  height: 80px;
+  border-radius:5px;
+}
+

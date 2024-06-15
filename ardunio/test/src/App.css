@@ -1,0 +1,48 @@
+* {
+  box-sizing: border-box;
+  margin: 20px;
+  padding: 0;
+}
+
+.container {  
+  border: 5px solid black; 
+  text-align: center;
+  width: 900px;
+  padding-left: 30px;
+  background-size: cover; /* Ảnh nền không lặp lại và tự động căn giữa */
+  background-position: center; /* Căn giữa ảnh nền */
+  background-image: url(https://scontent.fhan4-2.fna.fbcdn.net/v/t1.15752-9/370206016_6837757383002104_4799890579654752954_n.png?_nc_cat=111&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=P0l1Ok-dJJgAX-0GhcS&_nc_ht=scontent.fhan4-2.fna&oh=03_AdT8RgUt2y1Lwy8Xzu9Guzr_npm-A1c9208gCfahXr-aqQ&oe=65A8E3F2);
+}
+.tieude{
+  font-family: "Sofia", sans-serif;
+  color: rgb(255, 0, 0);
+  text-shadow: 5px 5px black;
+}
+h2{
+  text-align: center;
+  padding-top: 10px;
+  font-size: 20px;
+  font-weight: bold;
+  text-shadow: 2px 2px 4px #ffffff;
+}
+p{
+  text-align: center;
+  padding-top: 10px;
+  font-size: 13px;
+  font-weight: bold;
+  text-shadow: 2px 2px 4px #ffffff;
+}
+
+table {
+  border-collapse: collapse;
+  width: 90%;
+}
+
+th {
+  padding-left: 30px;
+  margin-left: 20px;
+  text-align: center;
+  border-bottom: solid 2px black;
+  
+}
+

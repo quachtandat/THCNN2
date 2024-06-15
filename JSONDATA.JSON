@@ -1,0 +1,29 @@
+DATA =[ 
+    {"id":1,"title":"mysql.com", "link":"https://www.mysql.com/"},
+    {"id":2,"title":"dowloads", "link":"https://www.mysql.com/downloads/"},
+    {"id":3,"title":"document", "link":"https://dev.mysql.com/doc/"},
+    {"id":4,"title":"developer zone", "link":"https://dev.mysql.com/"}
+]
+
+DANHMUC =[
+    {"ma":1,"Tên danh mục":"THOI TRANG NAM", "img":"1.jpg","link":"https://shopee.vn/Th%E1%BB%9Di-Trang-Nam-cat.11035567"},
+    {"ma":2,"Tên danh mục":"điện thoại", "img":"1.jpg","link":"https://shopee.vn/%C4%90i%E1%BB%87n-Tho%E1%BA%A1i-Ph%E1%BB%A5-Ki%E1%BB%87n-cat.11036030"},
+    {"ma":3,"Tên danh mục":"thiết bi dien tu", "img":"1.jpg","link":"https://shopee.vn/Thi%E1%BA%BFt-B%E1%BB%8B-%C4%90i%E1%BB%87n-T%E1%BB%AD-cat.11036132"},
+    {"ma":4,"Tên danh mục":"laptop", "img":"1.jpg","link":"https://shopee.vn/M%C3%A1y-T%C3%ADnh-Laptop-cat.11035954"},
+    {"ma":5,"Tên danh mục":"may quay phim", "img":"1.jpg","link":"https://shopee.vn/M%C3%A1y-%E1%BA%A2nh-M%C3%A1y-Quay-Phim-cat.11036101"},
+]
+
+danhsachsanpham =[
+    {"ma":1,"ten san pham":"dep tông","gia":10000,"nha san xuât":"nike","img":[{"url":"1.jpg"},{"url":"2.jpg"},{"url":"3.jpg"},],
+    "color":["den","kem"],
+    "toan kho":200
+}
+{"ma":2,"ten san pham":"dep tông","gia":10000,"nha san xuât":"nike","img":[{"url":"1.jpg"},{"url":"2.jpg"},{"url":"3.jpg"},],
+    "color":["den","kem"],
+    "toan kho":200
+}
+{"ma":3,"ten san pham":"dep tông","gia":10000,"nha san xuât":"nike","img":[{"url":"1.jpg"},{"url":"2.jpg"},{"url":"3.jpg"},],
+    "color":["den","kem"],
+    "toan kho":200
+}
+]
